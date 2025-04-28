@@ -12,7 +12,6 @@
   },
   "dependencies": {
     "@hookform/resolvers": "^3.3.2",
-    "@jridgewell/trace-mapping": "^0.3.19",
     "@neondatabase/serverless": "^0.6.0",
     "@radix-ui/react-accordion": "^1.1.2",
     "@radix-ui/react-alert-dialog": "^1.0.5",
@@ -93,7 +92,6 @@
     "postcss": "^8.4.31",
     "tailwindcss": "^3.3.3",
     "tsx": "^3.13.0",
-    "tw-animate-css": "^3.0.3",
     "typescript": "^5.2.2",
     "vite": "^4.4.11"
   }
