@@ -3,13 +3,13 @@
   "version": "1.0.0",
   "description": "Employee management system with attendance tracking and salary calculation",
   "main": "dist/index.js",
-  "scripts": {
-    "dev": "tsx server/index.ts",
-    "build": "tsc && vite build",
-    "start": "node dist/index.js",
-    "db:push": "drizzle-kit push:pg",
-    "db:studio": "drizzle-kit studio"
-  },
+  ""scripts": {
+  "dev": "tsx server/index.ts",
+  "build": "tsc",
+  "start": "node dist/index.js",
+  "db:push": "drizzle-kit push:pg",
+  "db:studio": "drizzle-kit studio"
+},
   "dependencies": {
     "@hookform/resolvers": "^3.3.2",
     "@neondatabase/serverless": "^0.6.0",
